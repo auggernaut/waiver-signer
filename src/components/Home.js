@@ -5,17 +5,20 @@ function HomePage() {
   const navigate = useNavigate();
 
   const handleUserTypeSelection = (userType) => {
-    if(userType === 'guest') {
+    if (userType === 'guest') {
       navigate(`/form?contract=liability-waiver`);
-    } else if(userType === 'captains') {
+    } else if (userType === 'captains') {
       navigate('/today');
     }
   };
 
   return (
     <div className="container">
+      <div className="logo-container">
+        <img src="logo.jpg" alt="Logo" className="logo" />
+      </div>
       <div className="title">
-        <h2>Welcome</h2>
+        Welcome aboard the Wiley Pixie! We're thrilled to have you with us. Just a couple of quick steps, and you'll be all set to sail with us.
       </div>
       <ul className="contract-list">
         <li>
@@ -30,6 +33,7 @@ function HomePage() {
         </li>
       </ul>
     </div>
+
   );
 }
 

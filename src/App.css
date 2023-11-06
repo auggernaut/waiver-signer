@@ -170,3 +170,13 @@ button:hover {
 .clear-button:hover {
   background-color: #e53935; /* slightly darker red on hover */
 }
+
+.logo-container {
+  text-align: center; /* This will center the inline-block or inline elements like the image */
+}
+
+.logo {
+  display: inline-block; /* Ensure the logo is an inline-block so it gets centered by the text-align */
+  max-width: 100%; /* Make sure the logo doesn't overflow its container */
+  height: auto; /* Keep aspect ratio */
+}

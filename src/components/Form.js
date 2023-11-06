@@ -62,7 +62,7 @@ function Form() {
       <div className="title">Liability Waiver</div>
         <form onSubmit={handleSubmit}>
           <label>
-            Charterer Name:
+            Your name:
             <input type="text" name="name" value={form.name} onChange={handleChange} placeholder="Name" required />
           </label>
 
