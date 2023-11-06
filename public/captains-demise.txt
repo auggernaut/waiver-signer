@@ -1,0 +1,77 @@
+Wiley Pixie Catamaran Charters by Nautie Adventures, LLC
+www.wileypixie.com | wileypixiecatamaran@gmail.com | 770-715-5844
+
+CAPTAINS DEMISE AGREEMENT
+Bareboat Yacht Charter
+
+All charters, leases, or rentals of yachts from Nautie Adventures, LLC are non-commercial, demise boat charters. This means that the owner of the vessel, is relinquishing all control of the chartered vessel to the charterer for the term of the charter agreement.
+
+Nautie Adventures, LLC provides a list of Captains that work with Nautie Adventures, LLC on a regular basis and that are familiar with the operation of our vessels. The Charterer may choose a captain that is not on this list as long as they meet the minimum standards described in this agreement, with the approval of the management of Nautie Adventures, LLC.
+
+
+CAPTAIN’S RESPONSIBILITIES
+
+1. Captain is responsible for the safety of the passengers, crew and vessel during the term stated in the Charter Contract. This charter agreement allows a total of thirteen guests which include 12 passengers and charterer. Crew members are not included.
+
+2. Captain must have with him/her on the vessel during the charter valid copies of the USCG Captain’s License, random drug testing certification, current CPR and First Aid Certifications, and STCW Certifications (if CFR required for the cruising area).
+
+3. Captain must be knowledgeable of the systems and operation of the vessel being chartered.
+
+4. Captain must be able to maneuver the vessel in and out of tight docking situations safely and without damaging the vessel. If the Captain feels that there is any risk of damaging the vessel through execution of any maneuver, then he/she should find a better alternative. Captain is responsible for repairing or paying for the repair of any damage that happens as a result of his/her actions.
+
+5. Captain warrants that he/she is capable and knowledgeable of the vessel being commanded.
+
+6. Captain shall review the charts and create an agreeable itinerary with the charter guests. Often the planned itinerary may need to be modified because of weather circumstances. Captain has complete authority to make any and all decisions concerning the operation of the vessel.
+
+7. Captain shall complete pre departure checklists and inventory checklists prior to departure.
+
+8. Captain shall inspect the vessel for any damage or malfunctioning equipment prior to departure and make his findings known to the Charter Manager.
+
+9. Any equipment failure or damage to the vessel shall be logged in the Ships Log and reported to the Charter Manager as soon as physically possible.
+
+10. Captain shall make sure the vessel is returned to the Charter Manager “IN THE CONDITION RECEIVED”. Specifically, the vessel is clean on the inside and outside. A fee will be charged for any excessive cleaning directly proportional to the level of cleaning necessary. The fuel and water tanks are filled. The holding tanks are emptied. Captain shall make it known to the Charter Guests that they are responsible for most of this cleanup. It is not the captain’s duty to clean up after the passengers. If the charterers cannot maintain a clean boat the captain has the right to hire a cleaning crew or first mate to keep the vessel clean or to clean up at the completion of the charter. The cost for such additional personnel shall be at the expense of the charterer. Captain shall be paid a daily rate of: $450 ($300 half day)  plus meals (or per diem for meals) and transportation expense to and from the charter boat location. This fee is paid directly to the Captain by charter guest or booking agent.
+
+11. Captain is not responsible for damages or losses of equipment caused by Charter Guests and shall note all such items in the Ships Log and notify the Charter Manager as soon as physically possible.
+
+
+CHARTERER AND CHARTERER’S GUESTS
+
+1. Charterer shall reserve time from the CAPTAIN’S schedule by returning this agreement signed and executed with a 50% deposit of the CAPTAIN’S FEE. The remaining balance of which is due 30 days prior to the charter. If you are within the 30-day period prior to the commencement date, the full amount is due with this agreement.
+
+2. Charterer acknowledges that he/she is chartering the vessel as a Demise Bareboat Charterer and has been given full control of the vessel under the terms and conditions stated in the Charter Agreement.
+
+3. Charterer is hiring a Captain of his/her own free will, with no compulsion by the Owner, or Owners’ Agent, because Charterer does not have the qualifications or does not want to take the full responsibility of operating the vessel on his/her own.
+
+4. Charterer agrees to listen to and obey the requests of the Captain and furthermore agrees to inform the other passengers and guests that they are bound to listen to and obey the requests of the Captain.
+
+5. Charterer understands that even though they are hiring and employing the captain that they do not have authority over the captain while on the vessel. Under US federal law and International Maritime Law, the Captain has legal authority over the vessel and passengers.
+
+6. Charterer shall not bring any illegal unprescribed drugs or Controlled Dangerous Substances aboard the vessel and that if any such items are found onboard the charter may be immediately terminated and passengers put ashore. If Government Law Enforcement finds any illegal substances or contraband aboard the vessel resulting in a seizure of the vessel, charterer is liable for the full replacement value of the vessel plus any loss of charter income to the Charter Manager and Owner. All legal fees and collection costs shall be in addition to the losses and be payable to the Charter Manager by the Charterer.
+
+7. Charterer agrees to maintain the vessel and individual accommodations in clean and orderly condition.
+
+8. Charterer agrees to return the vessel at the end of the Charter in the same condition that the yacht was received.
+
+9. Charterer understands and acknowledges that the Captain is not responsible for cleaning up after guests, passengers, children, or anyone other than him/herself. Charterer may opt to have a cleaning and detailing crew.
+
+10. Charterer acknowledges being informed that in the United States, Caribbean, and Bahamas a gratuity for the Captain and Crew is customary if they did their job courteously and professionally. Gratuities average 10 to 20% of the overall charter fee.
+
+11. Charterer agrees to abide by all regional laws and fishing regulations. Failure to do so may result in the termination of the charter. Charter Commencement Date, Time and Location
+
+
+Start Date: {startDate}  Start Time: {startTime}  
+Location: Club at Treasure Island
+
+End Date: {endDate}  End Time: {endTime}  
+Location: Club at Treasure Island
+
+
+Furthermore, I am retaining the following USCG Licensed Captain for the term of my charter and he/she has read and thoroughly understands the terms and conditions described herein:
+
+Captain: {captainName}
+Please directly make any checks/digital payment payable to: {captainName}
+
+I have thoroughly read and understand all the terms and conditions described above.
+
+Charterer: {name}
+Date: {date}

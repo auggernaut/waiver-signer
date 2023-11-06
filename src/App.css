@@ -1,0 +1,172 @@
+/* Include Roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #FAFAFA; /* light grey background */
+}
+
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* subtle shadow for elevation */
+  border-radius: 4px; /* rounded corners */
+}
+
+.title {
+  font-weight: 500;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #212121; /* dark grey text */
+}
+
+.contract-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contract-list-item {
+  padding: 12px 0;
+  border-bottom: 1px solid #E0E0E0; /* light grey border */
+  color: #757575; /* medium grey text */
+}
+
+.contract-list-item:last-child {
+  border-bottom: none;
+}
+
+input, textarea, select {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  box-sizing: border-box;
+}
+
+button {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 15px;
+  font-size: 16px;
+  background-color: #008CBA;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 20px 40px;
+}
+
+button:hover {
+  background-color: #005f5f;
+}
+
+.sign-button {
+  width: 90%;
+  max-width: 350px;
+  margin-left: 10px;
+}
+
+.marketing-checkbox {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.marketing-checkbox input[type="checkbox"] {
+  margin-right: 10px;
+  width: 20px;
+}
+
+/* styles.css */
+.contract-text {
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  max-width: 100%;
+  white-space: pre-wrap;
+  font-size: 1rem;
+  line-height: 1.5;
+  max-width: 800px;
+}
+
+.sigCanvas{
+  border: 1px solid black;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: auto;
+  /* padding: 10px; */
+}
+
+.form-container input,
+.form-container select {
+  margin-bottom: 10px;
+  padding: 15px;
+  font-size: 16px;
+}
+
+.error-text {
+  color: red;
+  font-size: 0.9rem;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.signature-container {
+  position: relative;
+  width: 320px;
+  height: 200px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+.signature-arrow-box {
+  position: absolute;
+  top: 5%; /* Adjust the vertical positioning */
+  left: -10px; /* Adjust for the overhang */
+  background-color: yellow;
+  padding: 5px 20px 5px 20px; /* Increase right padding for more space for the text */
+  border: 1px solid black;
+  border-radius: 5px 0 0 5px; /* Round only the left corners */
+  z-index: 2; 
+  font-size: 14px; /* Adjust font size as needed */
+}
+
+.sigCanvas {
+  z-index: 1;
+}
+
+#contract .button-container {
+  /* margin: 10px; */
+  margin-bottom: 100px;
+}
+
+.signature-container {
+  position: relative;
+}
+
+.clear-button {
+  position: absolute;
+  bottom: -30px;  /* adjust as needed */
+  right: 0;
+  background-color: #f44336; /* red color */
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+
+}
+
+.clear-button:hover {
+  background-color: #e53935; /* slightly darker red on hover */
+}
